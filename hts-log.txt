@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Jun 2023 12:56:56 at https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-onepage.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-onepage.html -O1 "C:\My Web Sites\teste" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:58:06	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/portfolio-grid.html (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-onepage.html)
+12:58:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/imgs/brands/01.png (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-main.html)
+12:58:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/imgs/sass-img/blog/1.jpg (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-digital-agency.html)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/portfolio-classic-grid.html (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-freelancer.html)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/blog-post.html (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-marketing-agency.html)
+12:58:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/imgs/portfolio/2/3.jpg (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-creative-agency.html)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/fonts/ionicons.svg?v=2.0.0 (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/plugins/ionicons.min.css)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/plugins/pe-icon-7-stroke.css)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/fonts/fa-brands-400.svg (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/fonts/fa-regular-400.svg (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/fonts/fa-solid-900.svg (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+12:58:14	Error: 	"Not Found" (404) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/images/close.png (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/css/plugins/YouTubePopUp.css)
+12:58:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/imgs/portfolio/2/3.jpg (from https://ui-themez.smartinnovates.net/items/geekfolio/dark/home-creative-agency.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 19 seconds : 284 links scanned, 270 files written (33766180 bytes overall) [30392239 bytes received at 384711 bytes/sec], 5180372 bytes transferred using HTTP compression in 103 files, ratio 25%, 35.5 requests per connection
+(9 errors, 4 warnings, 0 messages)
